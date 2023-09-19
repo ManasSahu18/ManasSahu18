@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManasSahu18
 - 👀 I’m interested in ...Cloud, DevOps concepts, SRE and Performance Improvment of applications
-- 🌱 I’m currently learning ...GCP, Docker, kubernetes, XLR, Chef, Teraform, Ansible
+- 🌱 I’m currently learning ...AWS, Terraform, Chef, Ansible, Docker, kubernetes
 - 💞️ I’m looking to collaborate on ...Cloud Migrations
 - 📫 How to reach me ... @9778928506(W)
 
